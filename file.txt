@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 HEAD
 Change form main
 Change from conflict-branch
 conflict-branch
+=======
+hello
+new line
+feature update
+>>>>>>> parent of 766a41f (Squash merge squash-branch)
