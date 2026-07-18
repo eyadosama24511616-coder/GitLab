@@ -8,3 +8,4 @@ hello
 new line
 feature update
 >>>>>>> parent of 766a41f (Squash merge squash-branch)
+test reset
